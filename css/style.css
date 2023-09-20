@@ -965,7 +965,7 @@ a:focus {
 
 
 .Mechanicalj .page-title{
-  background: url("/images/mechanical-jacksbg.jpg") center no-repeat local;
+  background: url("../images/mechanical-jacksbg.jpg") center no-repeat local;
   height: 365px;
   text-align: center;
   position: relative;
